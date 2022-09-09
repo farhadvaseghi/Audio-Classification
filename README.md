@@ -2,7 +2,7 @@
 # Capuchinbird Audio Classification with Tensorflow
 <p align="center">
 <kbd>
-   <img align="center" src="https://github.com/TomRSavage/ParticleSwarm/blob/master/Sty.gif" width="700" height="500">
+   <img align="center" src="https://user-images.githubusercontent.com/54831801/189448689-a3ac0fe9-7840-4010-9526-623b454c48a5.png" width="700" height="500">
 </kbd>
 </p>
 
