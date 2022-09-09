@@ -16,4 +16,4 @@ The Data is split into Training and Testing Data. For Training Data we have prov
 After downloading the dataset create a directory in the root directory with the name data and then put the files into that directory.
 
 ## Usage
-Check the file AudioClassification.ipynb and go step by step to understand the whole process coprehensively.
+Check the file AudioClassification.ipynb and go step by step to understand the whole process comprehensively.
